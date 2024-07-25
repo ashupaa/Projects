@@ -1,0 +1,445 @@
+body{
+    margin-left:0px;
+    margin-top:0px;
+    background-color: rgb(239, 237, 237);
+    color: white;
+}
+
+.nav{
+    background-color: black;
+    opacity: 0.9;
+    height:60px;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    
+    
+}
+
+#inp{
+    display:flex;
+    justify-content: space-between;
+    width: 750px;
+    margin-right: 100px;
+}
+
+
+
+
+a{
+    color:white;
+    text-decoration: none;
+}
+
+#amzn{
+   margin-top: 18px;
+   margin-left: 15px;
+}
+#alogo{
+    height: 30px;
+    width:98px;
+    
+}
+#dir{
+    display:inline-block;
+    display: flex;
+    justify-content: center;
+    
+
+
+}
+
+
+#wologo{
+    color:white;
+}
+
+
+#dp{
+    background-color: black;
+    color: white;
+    font-size: 13px;
+    
+    
+}
+
+#signin{
+    color:white;
+    background-color: black;
+    height:5 px;
+    padding:0px;
+    text-align: justify;
+    margin-top:0px;
+    border-style: solid;
+    border-color: black;
+    height:10px
+    
+}
+
+#return{
+    color:white;
+    background-color: black;
+    height:5 px;
+    padding:0px;
+    text-align: justify;
+    margin-top:0px;
+    border-style: solid;
+    border-color: black;
+}
+
+#cartlogo{
+    color:white;
+}
+
+#cart{
+    color:white;
+    background-color: black;
+    height:5 px;
+    padding:0px;
+    text-align: justify;
+    margin-top:0px;
+    border-style: solid;
+    border-color: black;
+    
+}
+
+
+#inp2{
+    width:820px;
+}
+
+#inp{
+    margin-top: 10.5px;
+    padding: 0px;
+}
+
+#option{
+    background-color: rgb(209, 208, 208);
+    height:40px;
+    border-style: solid;
+    border-color: rgb(209, 208, 208) ;
+    border-radius: 2px;
+}
+#input{
+    width:770px;
+    height:35.1px
+    
+}
+
+#searchlogo{
+    background-color: #ffbb4d;
+    opacity: 0.9;
+    border-style: solid;
+    border-color: #ffbb4d;
+    height:40px;
+    width: 40px;
+    border-radius: 2px;
+    margin-top: 0.2px;
+}
+
+#lang{
+    margin-top: 30px;
+    font-weight: bolder;
+}
+
+
+
+.part3{
+    display: flex;
+    justify-content: space-between;
+    padding-left:10px;
+    margin-right: 2px ;
+    font-weight: bolder;
+}
+
+#bl1{
+    width: 105px;
+    display: flex;
+    justify-content: center;
+    font-weight: bolder;
+
+}
+
+#bl2{
+    width: 85px;
+    display: flex;
+    justify-content: center;
+    
+
+}
+#return{
+    height:40px;
+}
+
+#bl3{
+    width: 70px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    
+}
+#cart{
+    width: 60px;
+    height:40px;
+    font-weight: bolder;
+
+}
+
+
+
+.endpg{
+    background-color: rgb(9, 9, 42);
+}
+
+
+.belnav{
+    background-color: rgb(28, 29, 61);
+    display: flex;
+    height:39px;
+    align-items: center;
+    
+
+
+}
+
+.belnav p{
+
+
+    display: inline-block;
+    margin-left: 15px;
+    
+}
+
+.banner{
+    background-image: url("/banner.jpg");
+    background-size: cover;
+    background-color: #ffbb4d;
+    height: 300px;
+    margin: 0%;
+    align-items: flex-end;
+    display:flex;
+    justify-content: center;
+}
+
+#note{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    background-color: white;
+
+    height:40px;
+    width: 98%;
+    margin-bottom: 05px;
+}
+
+#note a{
+    color:rgb(44, 110, 190);
+
+}
+
+.itemsphoto{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height:800px;
+    background-color: rgb(255, 255, 255);
+    padding: 0px;
+    justify-content: space-evenly;
+    padding-top: 10px;
+    margin-left: 2%;
+    margin-right: 2%;
+
+    
+}
+
+.itm{
+    font-size: larger;
+    margin-top: 10px;
+    height: 20px;
+
+}
+
+#img1{
+    background-image: url("/1.png");
+    background-size: cover;
+    height: 300px;
+    width: 300px
+}
+
+#img2{
+    background-image: url("/2.png");
+    background-size: cover;
+    height: 300px;
+    width: 400px
+}
+#img3{
+    background-image: url("/3.png");
+    background-size: cover;
+    height: 300px;
+    width: 300px
+}
+#img4{
+    background-image: url("/4.png");
+    background-size: cover;
+    height: 300px;
+    width: 300px
+}
+#img5{
+    background-image: url("/5.png");
+    background-size: cover;
+    height: 300px;
+    width: 300px
+}
+#img6{
+    background-image: url("/6.png");
+    background-size: cover;
+    height: 300px;
+    width: 300px
+}
+#img7{
+    background-image: url("/7.png");
+    background-size: cover;
+    height: 300px;
+    width: 300px
+}
+#img8{
+    background-image: url("/8.png");
+    background-size: cover;
+    height: 300px;
+    width: 300px
+}
+
+.nxtimg{
+    height: 280px;
+    display: flex;
+    flex-direction: column;
+    color:black;
+    font-size: larger;
+    margin-left: 2%;
+    margin-right: 2%;
+    background-color: white;
+    margin-top: 1%;
+    padding-top: 10px;
+
+
+
+}
+
+#item9{
+    background-image: url("/9.png");
+    background-size:cover;
+    height: 200px;
+    padding-top: 4%;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.itm{
+    color: black;
+}
+
+
+.footp1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color:black;
+    background-color:white;
+    margin-top: 1.5%;
+
+}
+
+#fsignin{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+#fsignin button{
+    width: 100%;
+    height: 28px;
+    border-radius: 4px;
+    font-size: small;
+    font-weight: 600;
+    
+}
+
+#fsignin p{
+    display: flex;
+    justify-content: center;
+}
+
+
+.back{
+    color:white;
+    display: flex;
+    height: 50px;
+    width: 100%;
+    background-color: rgb(17, 58, 79);
+    justify-content: center;
+
+    font-size: small;
+    align-items: center;
+}
+
+
+.footp2{
+    background-color: rgb(11, 46, 62);
+    display: flex;
+    justify-content: center;
+
+    align-content: center;
+    width:100%;
+    
+    
+    
+}
+
+
+.f{
+   margin:0px;
+   padding-left: 7%;
+   padding-right: 2%;
+
+}
+
+.footp3{
+    background-color: rgb(11, 46, 62);
+    height: 100px;
+    color:white;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    border-style: solid;
+    border-width: 0.001px;
+    border-color: rgb(86, 86, 97);
+}
+
+#lamzn{
+    background-color:  rgb(11, 46, 62);;
+
+    height: 20px;
+    margin-left: 20px;
+}
+
+#btns button{
+    background-color: rgb(11, 46, 62) ;
+    color: white;
+    border-style: solid;
+    border-color: rgb(108, 108, 108);
+    padding-left: 5px;
+    margin-left: 5px;
+    border-radius: 2px;
+    border-width: 0.01px;
+
+}
+
+#btns{
+    padding-left: 70px;
+}
